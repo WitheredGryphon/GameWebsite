@@ -21,7 +21,7 @@ If you would like to contribute feel free to create a Fork and make a pull reque
 
 ## Authors:
 
-* **Christian Medina**   Present
+* **Christian Medina** - Present
 
 ## Licensing
 
